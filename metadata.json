@@ -1,0 +1,8 @@
+
+{
+  "name": "WanderList - Travel Bookmark Manager",
+  "description": "A premium travel bookmarking application that allows you to plan trips, mark them as completed, and preserve memories with persistent local image storage and AI-powered destination insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
